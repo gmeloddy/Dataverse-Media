@@ -51,11 +51,18 @@ img {
 }
 
 .big_header{
-            font-size: 50px;
+        font-size: 30px;
 	color: var(--White);
 	letter-spacing: 0.5ch;
 	text-align: center;
-	margin-bottom: 3rem;
+	margin-bottom: 1.5rem;
+}
+.small_header{
+        font-size: 20px;
+	color: var(--White);
+	letter-spacing: 0.5ch;
+	text-align: center;
+	margin-bottom: 1.5rem;
 }
 
 .primary {
