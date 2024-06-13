@@ -32,7 +32,7 @@ img {
 	--Very_dark_blac_blue: hsl(234, 17%, 12%);
 
 	/* font size */
-	--h-text: 1.1rem;
+	--h-text: 16px;
 	--p-text: 1.8rem;
 	--s-text: 0.5rem;
 
@@ -110,7 +110,7 @@ main {
 }
 
 .container {
-	margin: 1em;
+	margin: 0.25em;
 }
 
 .center {
