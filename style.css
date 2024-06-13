@@ -51,7 +51,7 @@ img {
 }
 
 .big_header{
-        font-size: 30px;
+        font-size: 40px;
 	color: var(--White);
 	letter-spacing: 0.5ch;
 	text-align: center;
@@ -62,7 +62,7 @@ img {
 	color: var(--White);
 	letter-spacing: 0.5ch;
 	text-align: center;
-	margin-bottom: 1.5rem;
+	margin-bottom: 0.5rem;
 }
 
 .primary {
@@ -95,7 +95,7 @@ main {
 	background-repeat: repeat-x;
 	background-size: 100% 75%, 100% 25%;
 	position: relative;
-	z-index: 2;
+	z-index: -1;
 }
 
 .background::after {
