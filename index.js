@@ -11,7 +11,7 @@ const minFlip = document.getElementById("flip-sheet-min");
 const secFlip = document.getElementById("flip-sheet-sec");
 
 
-var myTime = new Date("Jun 20, 2024 12:00:00").getTime();
+var myTime = new Date("Jun 30, 2024 12:00:00").getTime();
 
 
 var now = new Date().getTime();
